@@ -93,11 +93,7 @@ forge script script/Deploy.s.sol --rpc-url $SEPOLIA_RPC_URL \
 cd frontend && npm install && npm run dev
 ```
 
-## What I learned
 
-Building this made the difference between `mapping` and `array` click — gas costs are
-*per operation*, not per data size, so choosing the right structure matters from day one.
-I also learned how `vm.warp` lets you test time-dependent logic without waiting.
 
 ---
 
