@@ -8,7 +8,7 @@
 ![Tests](https://img.shields.io/badge/tests-14%20passing-success)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
-🔗 **Live demo:** _coming soon — Vercel_
+🔗 **Live demo:** [onchain-poll.netlify.app](https://onchain-poll.netlify.app)
 📜 **Contract (Sepolia):** [`0xEe48C3e3226f13d92C781FaF045b40439A3308f1`](https://sepolia.etherscan.io/address/0xEe48C3e3226f13d92C781FaF045b40439A3308f1)
 
 ---
